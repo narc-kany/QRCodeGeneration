@@ -1,0 +1,2 @@
+<script src="https://cdn.jsdelivr.net/gh/baroninn/qrcodejs@master/qrcode.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/baroninn/qrcodejs@master/jquery.min.js"></script>

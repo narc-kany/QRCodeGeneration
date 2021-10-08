@@ -1,0 +1,12 @@
+body {
+  background-color: #fafcfb;
+}
+body * {
+  margin: auto;
+  text-align: center;
+  font-size: 22px;
+  background-color: #fascfb;
+}
+input {
+  display: block;
+}
